@@ -74,4 +74,4 @@ I am an undergraduate student majoring in Nanotechnology Engineering at the Univ
 
 I am always on the lookout for internships, so feel free to send em an email if you are looking for a hard-working and innovative intern!
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
