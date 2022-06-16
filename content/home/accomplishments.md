@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.nature.com/articles/s41929-021-00624-y
+  - publication_url: https://www.nature.com/articles/s41929-021-00624-y
     date_end: ''
     date_start: '2021-06-01'
     description: ''
@@ -31,7 +31,7 @@ item:
     organization_url: https://www.nature.com/articles/s41929-021-00624-y
     title: Interplay of electrochemical and electrical effects induces structural transformations in electrocatalysts
     url: ''
-  - certificate_url: https://iopscience.iop.org/article/10.1088/1361-6528/ac3f12
+  - publication_url: https://iopscience.iop.org/article/10.1088/1361-6528/ac3f12
     date_end: ''
     date_start: '2021-12-01'
     description: ''
