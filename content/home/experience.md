@@ -40,14 +40,14 @@ experience:
     date_end: '2021-12-31'
     description: N2O is a greenhouse gas far more dangerous than CO2 to the ozone layer. I focused ondevloping efficient and cost-effective nanocatalysts to mitigate N2O levels in the atmosphere using DFT and MD computations.
 
-- title: Researcher
-    company: KlinkovaLab, UWaterloo
-    company_url: ''
-    company_logo: UW
-    location: Canada
-    date_start: '2019-12-01'
-    date_end: '2021-04-30'
-    description: Interparticle gap engineering can prove to be a promising platform for designing high g-factor plasmonic nanopolymers. I studied the chiroptical properties of a novel plasmonic polymer through FDTD simulations. I also worked on a project where I studied the structural stability of nanocatalysts using computational methods.
+  - title: Researcher
+      company: KlinkovaLab, UWaterloo
+      company_url: ''
+      company_logo: UW
+      location: Canada
+      date_start: '2019-12-01'
+      date_end: '2021-04-30'
+      description: Interparticle gap engineering can prove to be a promising platform for designing high g-factor plasmonic nanopolymers. I studied the chiroptical properties of a novel plasmonic polymer through FDTD simulations. I also worked on a project where I studied the structural stability of nanocatalysts using computational methods.
 
 design:
   columns: '2'
