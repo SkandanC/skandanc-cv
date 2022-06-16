@@ -30,7 +30,7 @@ item:
     organization: Nature Catalysis
     organization_url: https://www.nature.com/articles/s41929-021-00624-y
     title: Interplay of electrochemical and electrical effects induces structural transformations in electrocatalysts
-    url: ''
+    url: 'https://www.nature.com/articles/s41929-021-00624-y'
   - publication_url: https://iopscience.iop.org/article/10.1088/1361-6528/ac3f12
     date_end: ''
     date_start: '2021-12-01'
