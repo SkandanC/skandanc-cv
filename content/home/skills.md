@@ -21,15 +21,15 @@ feature:
     icon_pack: fab
     name: Python
   - description: 70%
-    icon: man_technologist
+    icon: ":man_technologist:"
     icon_pack: emoji
     name: Lumerical
   - description: 50%
-    icon: man_technologist
+    icon: ":man_technologist:"
     icon_pack: emoji
     name: Matlab
   - description: 30%
-    icon: man_dancing
+    icon: ":man_dancing:"
     icon_pack: emoji
     name: Dancing
 # Uncomment to use emoji icons.
