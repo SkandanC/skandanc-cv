@@ -1,6 +1,4 @@
 ---
-# An instance of the Accomplishments widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: dancing
 
 # This file represents a page section.
@@ -23,8 +21,7 @@ subtitle: 'I'm learning to dance a niche variation of shuffle dancing called neo
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
-{{< youtube OYuJfW2RrGY>}}
-
 design:
   columns: '2'
 ---
+{{< youtube OYuJfW2RrGY>}}
