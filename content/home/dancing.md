@@ -22,8 +22,8 @@ subtitle: 'I'm learning to dance a niche variation of shuffle dancing called neo
 #   `title`, `organization`, and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-item:
-  - publication_url: https://www.youtube.com/watch?v=OYuJfW2RrGY
+
+{{< youtube OYuJfW2RrGY>}}
 
 design:
   columns: '2'
