@@ -11,9 +11,9 @@ weight: 60
 title: 'Dancing'
 subtitle: 'I'm learning to dance a niche variation of shuffle dancing called neo swing. I am also the founding President of my uni's Shuffle Dancing Club. I post my best videos in this site.'
 
-# Date format
-#   Refer to https://wowchemy.com/docs/customization/#date-format
-# date_format: Jan 2006
+Date format
+  Refer to https://wowchemy.com/docs/customization/#date-format
+date_format: May 2022
 
 # Accomplishments.
 #   Add/remove as many `item` blocks below as you like.
@@ -21,7 +21,8 @@ subtitle: 'I'm learning to dance a niche variation of shuffle dancing called neo
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
+{{< youtube OYuJfW2RrGY>}}
+
 design:
   columns: '2'
 ---
-{{< youtube OYuJfW2RrGY>}}
