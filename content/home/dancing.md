@@ -1,5 +1,5 @@
 ---
-widget: dancing
+widget: accomplishments
 title: "Dancing"
 subtitle: "I asdf"
 draft: False
