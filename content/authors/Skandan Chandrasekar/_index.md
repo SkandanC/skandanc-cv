@@ -72,6 +72,6 @@ highlight_name: true
 
 I am an undergraduate student majoring in Nanotechnology Engineering at the University of Waterloo, Canada. I have ~2 years of research experience from working in universities around the world and with people from Google.
 
-I am always on the lookout for internships, so feel free to send em an email if you are looking for a hard-working and innovative intern!
+I am always on the lookout for internships, so feel free to send me an email if you are looking for a hard-working and innovative intern!
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
