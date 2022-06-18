@@ -11,8 +11,8 @@ weight: 60
 title: 'Dancing'
 subtitle: 'I'm learning to dance a niche variation of shuffle dancing called neo swing. I am also the founding President of my uni's Shuffle Dancing Club. I post my best videos in this site.'
 
-Date format
-  Refer to https://wowchemy.com/docs/customization/#date-format
+# Date format
+#  Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: May 2022
 
 # Accomplishments.
