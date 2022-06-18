@@ -9,4 +9,4 @@ weight: 70
 design:
   columns: '2'
 ---
-![Showcase](/static/uploads/image.svg)
+![Showcase](/uploads/image.svg)
