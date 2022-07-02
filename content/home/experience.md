@@ -38,7 +38,7 @@ experience:
     location: Virginia
     date_start: '2021-10-06'
     date_end: '2021-12-31'
-    description: N2O is a greenhouse gas far more dangerous than CO2 to the ozone layer. I focused ondevloping efficient and cost-effective nanocatalysts to mitigate N2O levels in the atmosphere using DFT and MD computations.
+    description: N2O is a greenhouse gas far more dangerous than CO2 to the ozone layer. I focused on developing efficient and cost-effective nanocatalysts to mitigate N2O levels in the atmosphere using DFT and MD computations
 
   - title: Researcher
     company: KlinkovaLab, UWaterloo
