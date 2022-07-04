@@ -70,7 +70,7 @@ email: 'skandan68@gmail.com'
 highlight_name: true
 ---
 
-I am an undergraduate student majoring in Nanotechnology Engineering at the University of Waterloo, Canada. I have ~2 years of research experience from working in universities around the world and with people from Google.
+I am an undergraduate student majoring in Nanotechnology Engineering at the University of Waterloo, Canada. I have ~2 years of research experience from working in universities around the world.
 
 I am always on the lookout for internships, so feel free to send me an email if you are looking for a hard-working and innovative intern!
 
