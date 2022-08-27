@@ -27,8 +27,8 @@ experience:
     company_url: ''
     company_logo: google
     location: Hybrid (Provo, UT, and Mountain View, CA)
-    date_start: September 2022
-    date_end: April 2023
+    date_start: '2022-09-06'
+    date_end: '2023-04-24'
     description: TBD
 
   - title: Researcher
