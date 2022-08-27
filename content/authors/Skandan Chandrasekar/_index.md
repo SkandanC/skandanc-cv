@@ -6,7 +6,7 @@ title: Skandan Chandrasekar
 superuser: true
 
 # Role/position/tagline
-role: Researcher, Incoming Student Researcher at Google
+role: Incoming Student Researcher at Google
 
 # Organizations/Affiliations to show in About widget
 organizations:
