@@ -6,12 +6,15 @@ title: Skandan Chandrasekar
 superuser: true
 
 # Role/position/tagline
-role: Researcher
+role: Researcher, Incoming Student Researcher at Google
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: University of Waterloo
     url: https://www.uwaterloo.ca/
+  - name: Brigham Young University
+    url: https://byu.edu/
+  - name: Google
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include nanophotonics, computational photonics, and Photonic Integrated Circuits (PICs).
@@ -70,7 +73,7 @@ email: 'skandan68@gmail.com'
 highlight_name: true
 ---
 
-I am an undergraduate student majoring in Nanotechnology Engineering at the University of Waterloo, Canada. I have ~2 years of research experience from working in universities around the world.
+I am an undergraduate student majoring in Nanotechnology Engineering at the University of Waterloo, Canada. I have ~2 years of research experience from working in universities around the world, and with people from Google.
 
 I am always on the lookout for internships, so feel free to send me an email if you are looking for a hard-working and innovative intern!
 
