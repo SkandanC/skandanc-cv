@@ -22,13 +22,13 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Student researcher
-    company: Google LLC
+  - title: Incoming Intern, PIC Engineer
+    company: PsiQuantu
     company_url: ''
-    company_logo: google
-    location: Hybrid (Provo, UT, and Mountain View, CA)
-    date_start: '2022-09-06'
-    date_end: '2023-04-24'
+    company_logo: PsiQuantum
+    location: Palo Alto, CA
+    date_start: '2023-01-17'
+    date_end: '2023-09-15'
     description: TBD
 
   - title: Researcher
@@ -38,7 +38,7 @@ experience:
     location: Utah
     date_start: '2022-03-01'
     date_end: ''
-    description: I contribute to the development of open-source Photonic Integrated Circuits simulation packages (called Simphony and SiPANN). I am also a top contributor of gdsfactory, an open-source EDA tool for PICs
+    description: I contribute to the development of open-source Photonic Integrated Circuits simulation packages (called Simphony and SiPANN). I am also a top contributor of gdsfactory, an open-source EDA tool for PICs. I also lead the team working on a photonics PDK for the Skywater 130nm foundry.
 
   - title: Researcher
     company: Xin Group, Virginia Tech

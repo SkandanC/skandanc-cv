@@ -6,7 +6,7 @@ title: Skandan Chandrasekar
 superuser: true
 
 # Role/position/tagline
-role: Incoming Student Researcher at Google
+role: Incoming Intern, PIC Engineer at PsiQuantum
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,8 @@ organizations:
     url: https://www.uwaterloo.ca/
   - name: Brigham Young University
     url: https://byu.edu/
-  - name: Google
+  - name: PsiQuantum
+    url: https://www.psiquantum.com/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include nanophotonics, computational photonics, and Photonic Integrated Circuits (PICs).
