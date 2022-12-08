@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Incoming Intern, PIC Engineer
-    company: PsiQuantu
+    company: PsiQuantum
     company_url: ''
     company_logo: PsiQuantum
     location: Palo Alto, CA
